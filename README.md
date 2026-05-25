@@ -2,7 +2,7 @@
 
 Welcome to the Week 7 Assignment submission. This repository showcases a collection of React applications built with **Vite**, focusing on component architecture, state management, API integration, and responsive design.
 
-## 🚀 Overview for Evaluators
+##  Overview for Evaluators
 
 This portfolio demonstrates proficiency in modern frontend development practices, specifically within the React ecosystem. Each project is designed to be modular, performant, and user-friendly.
 
@@ -15,7 +15,7 @@ This portfolio demonstrates proficiency in modern frontend development practices
 
 ---
 
-## 📂 Project Portfolio
+##  Project Portfolio
 
 ### 1. Country Explorer
 A sophisticated data-driven application for discovering global information.
@@ -37,7 +37,7 @@ A functional CRUD-style productivity tool.
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
@@ -72,16 +72,7 @@ To run any project locally, follow these steps:
 
 ---
 
-## 🧐 Evaluator's Checklist
 
-| Feature | Country Explorer | Products Page | Task Manager |
-| :--- | :---: | :---: | :---: |
-| **Component Reusability** | ✅ | ✅ | ✅ |
-| **Responsive Design** | ✅ | ✅ | ✅ |
-| **State Management** | ✅ | N/A | ✅ |
-| **External API Data** | ✅ | N/A | N/A |
-| **Search/Filter Logic** | ✅ | N/A | N/A |
-| **CRUD Operations** | N/A | N/A | ✅ |
 
 ### Design Considerations
 - **Modularity**: Components are separated into logical files (e.g., `SearchBar.jsx`, `AddTaskForm.jsx`).
@@ -91,4 +82,3 @@ To run any project locally, follow these steps:
 
 ---
 
-*Thank you for reviewing this assignment!*
